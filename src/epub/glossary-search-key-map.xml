@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#bodkin">
+		<match value="bodkin" />
+	</search-key-group>
+    <search-key-group href="text/glossary.xhtml#mintie">
+		<match value="mintie" />
+	</search-key-group>
+    <search-key-group href="text/glossary.xhtml#pote">
+		<match value="pote" />
+	</search-key-group>
+    <search-key-group href="text/glossary.xhtml#twos">
+		<match value="twos" />
+	</search-key-group>
+</search-key-map>
