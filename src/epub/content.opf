@@ -37,7 +37,7 @@
 		<meta property="term" refines="#subject-2">sh85004382</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of poems by Ring Lardner.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
@@ -45,43 +45,39 @@
 		<dc:source>https://www.gutenberg.org/ebooks/25961</dc:source>
 		<dc:source>https://archive.org/details/the-niles-daily-star-1901-06-14-1/</dc:source>
 		<dc:source>https://archive.org/details/cu31924021755669/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/per_chicago-daily-tribune_1916-07-22_75_175/</dc:source>
+		<dc:source>https://archive.org/details/bub_gb_HIE2AQAAMAAJ/</dc:source>
+		<dc:source>https://archive.org/details/st-francis-lobbyist-lardner/</dc:source>
+		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-09_73_3/</dc:source>
+		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-11_73_5/</dc:source>
+		<dc:source>https://archive.org/details/sim_cosmopolitan_cosmopolitan_1922-12_73_6/</dc:source>
+		<dc:source>https://archive.org/details/sim_the-new-yorker_1925-04-18_1_9/</dc:source>
+		<meta property="se:production-notes">"An Irish Love Lyric" was recovered thanks to efforts by the staff at San Francicso Public Library, who provided scans from a bound volume in thier collection. All poems that are public domain and were identified in Matthew J. Bruccoli's "Ring Lardner: A Descriptive Bibliography" and could be located were included in this collection.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_poetry</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ring W. Lardner</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ring_Lardner</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79023324</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
