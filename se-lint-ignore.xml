@@ -1,0 +1,8 @@
+<se-lint-ignore>
+    <file path="poetry.xhtml">
+        <ignore>
+            <code>s-023</code>
+            <reason>These are proper nouns, so capitalization shouldn't be modified.</reason>
+        </ignore>
+    </file>
+</se-lint-ignore>
