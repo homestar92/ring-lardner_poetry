@@ -34,11 +34,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -58,12 +53,4 @@ dl{
 
 dd{
 	margin-left: 40px;
-}
-
-dd + dt{
-	margin-top: 1em;
-}
-
-#home > p:first-of-type{
-	text-align: center;
 }
