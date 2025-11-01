@@ -54,3 +54,7 @@ dl{
 dd{
 	margin-left: 40px;
 }
+
+#home > p:first-of-type{
+	text-align: center;
+}
